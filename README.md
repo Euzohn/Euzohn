@@ -21,22 +21,28 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,fastapi,docker,nginx,redis,linux,git,github,vscode" />
-
 </p>
-
 
 ---
 
-## 📊 Contribution
+## 📊 GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Euzohn&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euzohn&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Euzohn&theme=tokyonight&hide_border=true" />
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Euzohn&theme=tokyo-night&hide_border=true" />
+## 🔥 Contribution
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Euzohn&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Euzohn&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -52,9 +58,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Euzohn&color=00f7ff&style=flat-square" />
-
 </p>
 
 ---
